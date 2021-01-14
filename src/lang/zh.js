@@ -347,7 +347,7 @@ export default {
     sidebarLogo: '侧边栏 Logo'
   },
   system: {
-    title: 'ANZHI 权限系统'
+    title: 'ANZHI 权限系统bala'
   },
   tips: {
     usernameShouldNotBeEmpty: '用户名不能为空',
