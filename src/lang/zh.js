@@ -305,6 +305,19 @@ export default {
       enStatus: '环境状态',
       add: '添加设备'
     },
+    disposalUnit: {
+      city: "地级市",
+      legalPerson: "法人",
+      facilityAddress: "设施地址",
+      approvedBusinessScale: "核准经营规模",
+      approvedBusinessScope: "核准经营范围",
+      approvedBusinessType: "核准经营类别",
+      permitNumber: "许可证编号",
+      licenseValidityPeriod: "许可证有效期",
+      longitude: "经度",
+      latitude: "纬度",
+      phone: "联系电话",
+    },  
     waste: {
       enterprise: '企业名',
       depotId: '仓库编号',
@@ -347,7 +360,7 @@ export default {
     sidebarLogo: '侧边栏 Logo'
   },
   system: {
-    title: 'ANZHI 权限系统bala'
+    title: 'ANZHI 权限系统'
   },
   tips: {
     usernameShouldNotBeEmpty: '用户名不能为空',
